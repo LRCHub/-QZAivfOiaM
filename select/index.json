@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "P.S.",
+  "base_artist": "幾田りら",
+  "createdAt": "2026-01-06T08:31:55.268997Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "P.S.",
+      "artist": "James",
+      "has_synced": false,
+      "path": "select/01_P.S._James.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "P.S. I Hope You're Happy",
+      "artist": "The Chainsmokers feat. blink-182",
+      "has_synced": true,
+      "path": "select/02_P.S._I_Hope_You're_Happy_The_Chainsmokers_feat._blink-182.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "P.S. I Hope You’re Happy",
+      "artist": "The Chainsmokers",
+      "has_synced": true,
+      "path": "select/03_P.S._I_Hope_You’re_Happy_The_Chainsmokers.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "P.S. I Love You",
+      "artist": "The Beatles",
+      "has_synced": true,
+      "path": "select/04_P.S._I_Love_You_The_Beatles.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "B.H.G.P.S.A.",
+      "artist": "Bloodhound Gang",
+      "has_synced": true,
+      "path": "select/05_B.H.G.P.S.A._Bloodhound_Gang.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "B.H.G.P.S.A.",
+      "artist": "The Bloodhound Gang",
+      "has_synced": true,
+      "path": "select/06_B.H.G.P.S.A._The_Bloodhound_Gang.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "P.S.",
+      "artist": "The Rasmus",
+      "has_synced": true,
+      "path": "select/07_P.S._The_Rasmus.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "P.S. I Love You - Remastered 2009",
+      "artist": "The Beatles",
+      "has_synced": true,
+      "path": "select/08_P.S._I_Love_You_-_Remastered_2009_The_Beatles.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "P․S․ I Love You",
+      "artist": "The Beatles",
+      "has_synced": true,
+      "path": "select/09_P.S._I_Love_You_The_Beatles.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "P.S. You Rock My World",
+      "artist": "Eels",
+      "has_synced": true,
+      "path": "select/10_P.S._You_Rock_My_World_Eels.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Do You Realize?? - T.P.S. Remix",
+      "artist": "The Flaming Lips",
+      "has_synced": true,
+      "path": "select/11_Do_You_Realize__-_T.P.S._Remix_The_Flaming_Lips.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "P.S.",
+      "artist": "Film School",
+      "has_synced": true,
+      "path": "select/12_P.S._Film_School.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "P.S. The Scene Is Dead",
+      "artist": "The Ataris",
+      "has_synced": false,
+      "path": "select/13_P.S._The_Scene_Is_Dead_The_Ataris.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "P.S. (I'm Still Not Over You)",
+      "artist": "Rihanna",
+      "has_synced": true,
+      "path": "select/14_P.S._(I'm_Still_Not_Over_You)_Rihanna.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "L.I.P.S.T.I.C.K.",
+      "artist": "Ralph Myerz and the Jack Herren Band",
+      "has_synced": true,
+      "path": "select/15_L.I.P.S.T.I.C.K._Ralph_Myerz_and_the_Jack_Herren_Band.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "L.i.p.s.t.i.c.k.",
+      "artist": "Ralph Myerz & The Jack Herren Band",
+      "has_synced": true,
+      "path": "select/16_L.i.p.s.t.i.c.k._Ralph_Myerz_&_The_Jack_Herren_Band.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "P.S.",
+      "artist": "幾田りら",
+      "has_synced": false,
+      "path": "select/pl_01_P.S._幾田りら.txt"
+    }
+  ]
+}
